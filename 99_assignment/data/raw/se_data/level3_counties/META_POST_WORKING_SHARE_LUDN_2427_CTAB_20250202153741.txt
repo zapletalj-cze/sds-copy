@@ -1,0 +1,13 @@
+
+Category	POPULATION 
+Group	POPULATION 
+Subgroup	The share of the population by the economic age groups in % of total population
+Source of data Statistical Surveys Programme	2023
+Domain	1.21 Population, demographic processes
+Statistical survey	1.21.07 Balance of the state and structure of the population based on demographic characteristics
+Data sets	https://form.stat.gov.pl/formaty/badanie.php?rok-pbssp=2023&bid=43
+Periodicity of the survey	every year
+Authority responsible for the survey	President of Statistics Poland
+Unit responsible for the survey	Statistics Poland
+Contact person on methodology	Agata Dąbrowska, Statistics Poland - Demographic Surveys Department, Ag.Dabrowska@stat.gov.pl
+Last update	05/06/2024

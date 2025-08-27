@@ -1,0 +1,12 @@
+Domain	1.21 Population, demographic processes
+Statistical survey	1.21.07 Balance of the state and structure of the population based on demographic characteristics
+Data sets	https://form.stat.gov.pl/formaty/badanie.php?rok-pbssp=2023&bid=43
+Periodicity of the survey	every year
+Authority responsible for the survey	President of Statistics Poland
+Unit responsible for the survey	Statistics Poland
+Contact person on methodology	Agata Dąbrowska, Statistics Poland - Demographic Surveys Department, Ag.Dabrowska@stat.gov.pl
+Last update	20/01/2025
+
+Until 2009 balance of population was compiled for two categories of population: 1. de facto population (population actually residing/leaving in a given administrative unit - i.e. gmina), 2. de jure population (population registered for permanent stay in a given administrative unit - i.e. gmina). Since 2010, the balance of the population is prepared only for one category of population (formerly called "de facto population"). Data refer to the administrative division as of 31st December and includes:
+a) permanent residents except for those residing outside the place of residence for more than three months in the country and all persons residing abroad (regardless of the period of their absence)
+b) persons staying temporarily for a period of over 3 months, came from another place in the country. Indicators relating to the number and structure of the population (gender, age group) since 2020 have been recalculated in accordance with the balance sheet prepared on the basis of the results of the National Census 2021.

@@ -1,0 +1,7 @@
+
+Category	K31	NATIONAL CENSUSES 
+Group	G640	CENSUS 2021 - POPULATION 
+Subgroup	P4315	Population aged 13 years and more by educational level and sex   
+Dimensions	
+Sex; Educational level; Years
+Last update	21/09/2023

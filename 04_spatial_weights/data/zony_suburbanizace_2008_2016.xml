@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><MD_Metadata xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:xalan="http://xml.apache.org/xalan" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xmlns="http://www.isotc211.org/2005/gmd">
+    <language>
+        <LanguageCode codeList="http://www.loc.gov/standards/iso639-2" codeListValue="cze" codeSpace="ISO639-2">cze</LanguageCode>
+    </language>
+    <characterSet>
+        <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+    </characterSet>
+    <hierarchyLevel>
+        <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+    </hierarchyLevel>
+    <hierarchyLevelName>
+        <gco:CharacterString>dataset</gco:CharacterString>
+    </hierarchyLevelName>
+    <contact>
+        <CI_ResponsibleParty>
+            <individualName>
+                <gco:CharacterString>Jan Sýkora</gco:CharacterString>
+            </individualName>
+            <organisationName>
+                <gco:CharacterString>Přírodovědecká fakulta, Univerzita Karlova</gco:CharacterString>
+            </organisationName>
+            <contactInfo>
+                <CI_Contact>
+                    <address>
+                        <CI_Address>
+                            <electronicMailAddress>
+                                <gco:CharacterString>jan.sykora@natur.cuni.cz</gco:CharacterString>
+                            </electronicMailAddress>
+                        </CI_Address>
+                    </address>
+                </CI_Contact>
+            </contactInfo>
+            <role>
+                <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+            </role>
+        </CI_ResponsibleParty>
+    </contact>
+    <dateStamp>
+        <gco:Date>2023-07-31</gco:Date>
+    </dateStamp>
+    <metadataStandardName>
+        <gco:CharacterString>INSPIRE Metadata Implementing Rules: Technical Guidelines based on EN ISO 19115 and EN ISO 19119</gco:CharacterString>
+    </metadataStandardName>
+    <metadataStandardVersion>
+        <gco:CharacterString>V. 2.0.1</gco:CharacterString>
+    </metadataStandardVersion>
+    <identificationInfo>
+        <MD_DataIdentification>
+            <citation>
+                <CI_Citation>
+                    <title>
+                        <gco:CharacterString>Zóny rezidenční suburbanizace 2008-2016</gco:CharacterString>
+                    </title>
+                    <date gco:nilReason="missing"/>
+                </CI_Citation>
+            </citation>
+            <abstract>
+                <gco:CharacterString>Polygonová vrstva zóny rezidenční suburbanizace vznikla na základě metodiky vytvořené výzkumným centrem Urbánní a regionální laboratoř (URRlab) působícím na katedře sociální geografie a regionálního rozvoje Přírodovědecké fakulty Univerzity Karlovy. Pro zpracování byla využita data Českého statistického ústavu a podkladová digitální vektorová geografické databáze České republiky ArcČR® 500, zpracována na úrovni podrobnosti 1 : 500 000, verze 3.3 z roku 2016 (databáze vznikla ve spolupráci ARCDATA PRAHA, s.r.o., Zeměměřického úřadu a Českého statistického úřadu). Metodika vymezení zón rezidenční suburbanizace vznikla jako jeden z výstupů projektu číslo TD010049 "Prognóza demografického vývoje a jeho důsledků pro kvalitu života obyvatel v dynamicky se měnících obcích v zázemí českých měst: aplikace v rozvoji a správě území", který podpořila v programu OMEGA Technologická agentura České republiky. Dále je aktualizována v rámci projektu TL01000170 „Reálné populace v Praze a Středočeském kraji: monitoring denní mobility a populační prognóza“, který byl podpořen v letech 2018-2020 programem na podporu aplikovaného společenskovědního a humanitního výzkumu, experimentálního vývoje a inovací ÉTA Technologické agentury České republiky.Metodika ke stažení zde. </gco:CharacterString>
+            </abstract>
+            <purpose>
+                <gco:CharacterString>Vymezení zón rezidenční suburbanizace v letech 2008, 2010, 2013 a 2016.</gco:CharacterString>
+            </purpose>
+            <credit>
+                <gco:CharacterString>OUŘEDNÍČEK, M., ŠPAČKOVÁ, P., KLSÁK, A.: (2018): Metodika sledování rozsahu rezidenční suburbanizace. Metodika, pátá verze. Urbánní a regionální laboratoř, Přírodovědecká fakulta Univerzity Karlovy, Praha. 
+OUŘEDNÍČEK, M., ŠPAČKOVÁ, P., KLSÁK, A., NEMEŠKAL, J. (2018): Zóny rezidenční suburbanizace v obcích Česka 2016. Specializovaná mapa. Přírodovědecká fakulta Univerzity Karlovy.
+ArcČR 500 (2016): Databáze vektorových GIS vrstev. 
+ČSÚ (2018a): Počet obyvatel v obcích 2008-2016. Praha, Český statistický úřad.  
+ČSÚ (2018b): Databáze migrace v letech 2009–2016, individuální anonymizovaná data o změnách trvalého bydliště na úrovni obcí. Praha, Český statistický úřad.  
+ČSÚ (2018c): Statistika dokončených bytů 2009–2016. Praha, Český statistický úřad, odbor statistiky stavebnictví.</gco:CharacterString>
+            </credit>
+            <pointOfContact>
+                <CI_ResponsibleParty>
+                    <individualName>
+                        <gco:CharacterString>Adam Klsák</gco:CharacterString>
+                    </individualName>
+                    <organisationName>
+                        <gco:CharacterString>Univerzita Karlova, Přírodovědecká fakulta, katedra sociální geografie a regionálního rozvoje, Urbánní a regionální laboratoř</gco:CharacterString>
+                    </organisationName>
+                    <contactInfo>
+                        <CI_Contact>
+                            <address>
+                                <CI_Address>
+                                    <electronicMailAddress>
+                                        <gco:CharacterString>adam.klsak@natur.cuni.cz</gco:CharacterString>
+                                    </electronicMailAddress>
+                                </CI_Address>
+                            </address>
+                        </CI_Contact>
+                    </contactInfo>
+                    <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author" codeSpace="ISOTC211/19115">author</CI_RoleCode>
+                    </role>
+                </CI_ResponsibleParty>
+            </pointOfContact>
+            <resourceMaintenance>
+                <MD_MaintenanceInformation>
+                    <maintenanceAndUpdateFrequency>
+                        <MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="notPlanned" codeSpace="ISOTC211/19115">notPlanned</MD_MaintenanceFrequencyCode>
+                    </maintenanceAndUpdateFrequency>
+                </MD_MaintenanceInformation>
+            </resourceMaintenance>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>Česko</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>obce</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>kartografie</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>GIS</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>prostorová data</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>suburbanizace</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>TAČR</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Katedra sociální geografie a regionálního rozvoje PřF UK</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>obyvatelstvo</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>migrace</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>bydlení</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <resourceConstraints>
+                <MD_Constraints>
+                    <useLimitation>
+                        <gco:CharacterString>Užití dat a výstupů se řídí obecnými podmínkami užití produktů DataHub Mapového a datového centra Přírodovědecké fakulty UK uvedenými zde. </gco:CharacterString>
+                    </useLimitation>
+                </MD_Constraints>
+            </resourceConstraints>
+            <resourceConstraints>
+                <MD_LegalConstraints>
+                    <accessConstraints>
+                        <MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="license" codeSpace="ISOTC211/19115">license</MD_RestrictionCode>
+                    </accessConstraints>
+                    <useConstraints>
+                        <MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="license" codeSpace="ISOTC211/19115">license</MD_RestrictionCode>
+                    </useConstraints>
+                </MD_LegalConstraints>
+            </resourceConstraints>
+            <spatialRepresentationType>
+                <MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="ISOTC211/19115">vector</MD_SpatialRepresentationTypeCode>
+            </spatialRepresentationType>
+            <language>
+                <LanguageCode codeList="http://www.loc.gov/standards/iso639-2" codeListValue="cze" codeSpace="ISO639-2">cze</LanguageCode>
+            </language>
+            <characterSet>
+                <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+            </characterSet>
+            <extent>
+                <EX_Extent/>
+            </extent>
+        </MD_DataIdentification>
+    </identificationInfo>
+    <metadataMaintenance>
+        <MD_MaintenanceInformation>
+            <maintenanceAndUpdateFrequency>
+                <MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="notPlanned" codeSpace="ISOTC211/19115">notPlanned</MD_MaintenanceFrequencyCode>
+            </maintenanceAndUpdateFrequency>
+        </MD_MaintenanceInformation>
+    </metadataMaintenance>
+</MD_Metadata>

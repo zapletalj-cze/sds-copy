@@ -1,0 +1,12 @@
+
+Category	ORGANIZATION OF THE STATE AND JUSTICE 
+Group	ASCERTAINED CRIMES BY THE POLICE IN COMPLETED PREPARATORY PROCEEDINGS 
+Subgroup	Ascertained crimes by the Police in completed preparatory proceedings 
+Contact person on methodology	Hanna Wingrowicz, Statistics Poland - Social Surveys and Labour Department, H.Wingrowicz@stat.gov.pl
+Last update	06/08/2024
+Description dimensions
+1. Crimes
+Variable availability in years
+Basic Concepts
+Crime against life and health 
+Crime against property 

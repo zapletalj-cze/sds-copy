@@ -1,0 +1,13 @@
+
+Category	WAGES AND SALARIES AND SOCIAL SECURITY BENEFITS 
+Group	WAGES AND SALARIES
+Subgroup	Average monthly gross wages and salaries 
+Source of data Statistical Surveys Programme	2023
+Domain	1.24 Wages and salaries, labour costs and social benefits
+Statistical survey	1.24.01 Wages and salaries in the national economy
+Data sets	https://form.stat.gov.pl/formaty/badanie.php?rok-pbssp=2023&bid=68
+Periodicity of the survey	every year
+Authority responsible for the survey	President of Statistics Poland
+Unit responsible for the survey	Statistics Poland
+Contact person on methodology	Anna Dublasiewicz, SO Bydgoszcz, a.dublasiewicz@stat.gov.pl
+Last update	23/07/2024

@@ -1,0 +1,13 @@
+
+Category	ORGANIZATION OF THE STATE AND JUSTICE 
+Group	SUICIDAL AND SUICIDAL BEHAVIOURS REGISTERED BY THE POLICE 
+Subgroup	Persons in suicides and suicidal behaviours 
+Source of data Statistical Surveys Programme	2023
+Domain	1.03 National defence, internal safety and justice
+Statistical survey	1.03.06 Activity of rescue services
+Data sets	https://form.stat.gov.pl/formaty/badanie.php?rok-pbssp=2023&bid=26
+Periodicity of the survey	every year
+Authority responsible for the survey	President of Statistics Poland ; Minister in charge of internal affairs
+Unit responsible for the survey	Statistics Poland; Ministry of the Interior and Administration
+Contact person on methodology	Dominika Mazur, SO Kraków, D.Mazur@stat.gov.pl
+Last update	24/07/2024
